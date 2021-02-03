@@ -1,6 +1,4 @@
-# data_science_tcc_puc
-
-<b>Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciência de Dados e Big Data como requisito parcial à obtenção do título de especialista</b>
+# Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciência de Dados e Big Data como requisito parcial à obtenção do título de especialista
 
 <b>Docker image:</b> docker pull jupyter/scipy-notebook:4b07fcdcb67e
 

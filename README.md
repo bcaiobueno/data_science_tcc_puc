@@ -11,15 +11,16 @@
 <b>Técnica dos 5W’s:</b>
 
 <b>Why?</b> – Por que analisar dados de ocorrências aéreas?
-•	Com um número cada vez maior de pessoas utilizando um meio de transporte aéreo, seja a trabalho ou lazer, faz também crescer também demanda das empresas do setor, aumentando o número de veículos aéreos nos céus, assim também como a malha aérea. Será que no decorrer dos últimos anos isso teve influência o número de incidentes?
+* Com um número cada vez maior de pessoas utilizando um meio de transporte aéreo, seja a trabalho ou lazer, faz também crescer também demanda das empresas do setor, aumentando o número de veículos aéreos nos céus, assim também como a malha aérea. Será que no decorrer dos últimos anos isso teve influência o número de incidentes?
 
 <b>Who?</b> – A quem pertencem os dados?
-•	A base principal dos dados que contém as ocorrências aeronáuticas e que é gerenciada pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA) pertencem ao governo federal assim também como os dados geográficos que serão obtidos do Instituto Brasileiro de Geografia e Estatística (IBGE).
+* A base principal dos dados que contém as ocorrências aeronáuticas e que é gerenciada pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA) pertencem ao governo federal assim também como os dados geográficos que serão obtidos do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
 <b>What?</b> – Quais são os objetivos a serem alcançados com a análise?
-•	O objetivo desta análise das ocorrências aéreas será extrair as respostas para as seguintes perguntas: Quais são as localidades com mais ocorrências aéreas no Brasil? Existe tendência de crescimento no número de ocorrências? Quais são os motivos mais frequentes causadores destes incidentes? Quais são os tipos de aeronaves que mais se envolvem em ocorrências? De quais fabricantes e de quais segmentos? Quais os danos sofridos?
+* O objetivo desta análise das ocorrências aéreas será extrair as respostas para as seguintes perguntas: Quais são as localidades com mais ocorrências aéreas no Brasil? Existe tendência de crescimento no número de ocorrências? Quais são os motivos mais frequentes causadores destes incidentes? Quais são os tipos de aeronaves que mais se envolvem em ocorrências? De quais fabricantes e de quais segmentos? Quais os danos sofridos?
 
 <b>Where?</b> – Onde se baseia a análise do problema proposto?
-•	Todos os dados analisados serão exclusivamente relacionados ao território nacional brasileiro, não fazendo parte do escopo deste trabalho qualquer outra localidade fora do Brasil.
+* Todos os dados analisados serão exclusivamente relacionados ao território nacional brasileiro, não fazendo parte do escopo deste trabalho qualquer outra localidade fora do Brasil.
 
 <b>When?</b> – Qual é o período a ser analisado?
+* Constam nesta base de dados as ocorrências aeronáuticas notificadas ao CENIPA nos últimos 10 anos (2010 a 2019) e que ocorreram em solo brasileiro.
